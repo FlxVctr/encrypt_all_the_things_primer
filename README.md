@@ -2,13 +2,15 @@
 
 ## (Digital Privacy & Security for Researchers)
 
-*Presentation for the DMRC Fridays @ QUT August 25th 2017*
+*Primer for an encryption workshop for journalists and researchers*
+
+<!--TODO: update abstract-->
 
 The political upheavals of 2016 support Edward Snowden’s warnings of a turn-key surveillance state. As the aftermath of the military coup in Turkey shows, academics can be amongst the first targets of autocratic governments. Even in supposedly stable democracies, the passing of surveillance laws and increase in hacking attacks threatens the security of data and communication. In addition, researchers mostly do not enjoy the protection of information provided to lawyers, medical doctors, and clergy. Recognising these increasing risks, researchers need to become more aware of digital methods to protect their research and sources.
 
 In this hands-on workshop, we address threats a researcher should protect against, explain basics of computer security, the encryption of data and communication, and provide recommendations for existing tools.
 
-[View the slides here](https://qut-dmrc.github.io/encrypt_all_the_things)
+[View the slides here](https://flxvctr.github.io/encrypt_all_the_things_primer/)
 
 ### How to edit
 
@@ -33,4 +35,4 @@ Use url: http://localhost:8000/?print-pdf#/ and print via the dialog in your web
 
 #### Previous versions of workshop
 
-Previous versions of the workshop are available on the releases page: https://github.com/qut-dmrc/encrypt_all_the_things/releases
+Full versions of the workshop are available on the releases page: https://github.com/qut-dmrc/encrypt_all_the_things/releases
