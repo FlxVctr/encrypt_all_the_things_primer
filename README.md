@@ -4,11 +4,7 @@
 
 *Primer for an encryption workshop for journalists and researchers*
 
-<!--TODO: update abstract-->
-
-The political upheavals of 2016 support Edward Snowden’s warnings of a turn-key surveillance state. As the aftermath of the military coup in Turkey shows, academics can be amongst the first targets of autocratic governments. Even in supposedly stable democracies, the passing of surveillance laws and increase in hacking attacks threatens the security of data and communication. In addition, researchers mostly do not enjoy the protection of information provided to lawyers, medical doctors, and clergy. Recognising these increasing risks, researchers need to become more aware of digital methods to protect their research and sources.
-
-In this hands-on workshop, we address threats a researcher should protect against, explain basics of computer security, the encryption of data and communication, and provide recommendations for existing tools.
+In this talk we address digital threats a journalist (and everyone else!) should protect against, such as weak password reuse, revealing your identity through your ip address and browser details, unencrypted communication, unencrypted devices and meta data retention. We then explain basics of computer security, the encryption of data and communication, and provide recommendations for existing tools to make your digital activity more secure.
 
 [View the slides here](https://flxvctr.github.io/encrypt_all_the_things_primer/)
 
