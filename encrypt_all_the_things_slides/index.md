@@ -166,9 +166,10 @@ Choose a VPN service which:
 * has servers in safe jurisdictions
 * not insert advertising into your browsing stream
 
-Remember that if it's too cheap you might be paying in other ways.
-
 [NordVPN](https://nordvpn.com/) and [Private Internet Access](https://www.privateinternetaccess.com/) both have a long term high reputation. [ProtonVPN](https://protonvpn.com/), made by the people behind ProtonMail, looks promising too.
+
+Note:
+Remember that if it's too cheap you might be paying in other ways.
 
 ----
 
