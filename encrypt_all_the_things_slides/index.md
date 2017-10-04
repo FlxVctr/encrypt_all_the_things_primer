@@ -29,6 +29,20 @@ TODO for Brenda, introduction
 
 ----
 
+# Disclaimer
+
+This is a cut-down primer of a workshop that takes 90-120 minutes, including:
+
+* activities
+* explanations of fundamental concepts
+* time for questions and discussions
+
+Find it here:
+
+https://github.com/qut-dmrc/encrypt_all_the_things
+
+----
+
 # worst case scenarios
 
 ----
