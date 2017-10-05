@@ -58,7 +58,7 @@ haveibeenpwned.com
 
 ## revealing IP address
 
-researching in extremist bulletin boards/social networks
+accessing extremist websites/social networks,
 getting harassed in your neighbourhood afterwards
 
 ----
@@ -345,10 +345,10 @@ At end of the presentation there is a list of all the software we've mentioned t
 
 ## Get expert advice
 
-Depending on the level of risk to you or your research participants you may need to seek advice from a security/privacy expert before you begin your research.
+Depending on the level of risk to you or your sources you may need to seek advice from a security/privacy expert before you begin your research.
 
 Note:
-* Risks/Solutions are changing over time, so important to get current advice before you start your research.
+* Risks/Solutions are changing over time, so important to get current advice before you start your project.
 
 ---
 
