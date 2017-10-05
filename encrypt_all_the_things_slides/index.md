@@ -2,7 +2,7 @@
 
 **... but don't forget your keys.**
 
-*(Digital Privacy & Security for Researchers)*
+*(Digital Privacy & Security for Journalists)*
 
 A primer for the "Attacks on Encryption" event
 
@@ -82,7 +82,7 @@ interview in country oppressing the press with 'off-the-record' content on unenc
 (http://www.abc.net.au/triplej/programs/hack/how-team-of-pre-teens-found-whisteblower-using-metadata/8113668)
 
 Note:
-* This is a privacy and security risk faced by everyone, not just researchers.
+* This is a privacy and security risk faced by everyone, not just journalists.
 * The slide shows a news article about a realistic metadata game where a team of pre-teens identified a whistleblower in less than 2 hours
 
 ---
@@ -149,7 +149,7 @@ Note:
 
 ---
 
-# Researcher privacy
+# Journalist privacy
 
 ----
 
