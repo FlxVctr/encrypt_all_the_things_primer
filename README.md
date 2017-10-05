@@ -2,13 +2,11 @@
 
 ## (Digital Privacy & Security for Researchers)
 
-*Presentation for the DMRC Fridays @ QUT August 25th 2017*
+*Primer for an encryption workshop for journalists and researchers*
 
-The political upheavals of 2016 support Edward Snowden’s warnings of a turn-key surveillance state. As the aftermath of the military coup in Turkey shows, academics can be amongst the first targets of autocratic governments. Even in supposedly stable democracies, the passing of surveillance laws and increase in hacking attacks threatens the security of data and communication. In addition, researchers mostly do not enjoy the protection of information provided to lawyers, medical doctors, and clergy. Recognising these increasing risks, researchers need to become more aware of digital methods to protect their research and sources.
+In this talk we address digital threats a journalist (and everyone else!) should protect against, such as weak password reuse, revealing your identity through your ip address and browser details, unencrypted communication, unencrypted devices and meta data retention. We then explain basics of computer security, the encryption of data and communication, and provide recommendations for existing tools to make your digital activity more secure.
 
-In this hands-on workshop, we address threats a researcher should protect against, explain basics of computer security, the encryption of data and communication, and provide recommendations for existing tools.
-
-[View the slides here](https://qut-dmrc.github.io/encrypt_all_the_things)
+[View the slides here](https://flxvctr.github.io/encrypt_all_the_things_primer/)
 
 ### How to edit
 
@@ -30,3 +28,7 @@ start a line with `Note:`. When presenting press `S` to view presenter window.
 #### Printing
 
 Use url: http://localhost:8000/?print-pdf#/ and print via the dialog in your web browser.
+
+#### Previous versions of workshop
+
+Full versions of the workshop are available on the releases page: https://github.com/qut-dmrc/encrypt_all_the_things/releases
